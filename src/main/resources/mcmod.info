@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "nursultandelta",
+    "name": "Nursultan Delta",
+    "description": "Lightweight single-player utility client foundation with ClickGUI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["MrIlyos"],
+    "dependencies": []
+  }
+]
